@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true" >
+
+    <org.mapsforge.android.maps.MapView
+        android:id="@+id/publicTransportMapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/clear_button_points"
+        android:layout_width="wrap_content"
+        android:layout_height="40dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Clear points" />
+
+    <Button
+        android:id="@+id/clear_button_lines"
+        android:layout_width="wrap_content"
+        android:layout_height="40dip"
+        android:layout_above="@+id/clear_button_points"
+        android:layout_alignParentLeft="true"
+        android:text="Clear lines" />
+
+</RelativeLayout>

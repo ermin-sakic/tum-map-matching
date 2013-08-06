@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Map-Matching Demo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MM-VMI</string>
+
+    <string-array name="tileset_array">
+        <item>Mapnik</item>
+        <item>Opencyclemap</item>
+        <item>Database</item>
+    </string-array>
+
+</resources>
