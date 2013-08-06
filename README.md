@@ -1,3 +1,5 @@
+ST-Matching algorithm for Android Applications (a map-matching project)
+================
 Please feel free to read upon the documentation describing the work here:
 https://vmi.lmt.ei.tum.de/publications/students/Sakic-Bachelorarbeit.pdf
 
