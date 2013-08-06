@@ -1,5 +1,5 @@
 Please feel free to read upon the documentation describing the work here:
-https://vmi.lmt.ei.tum.de/publications/students/Sakic-Bachelorarbeit.pdf‎
+https://vmi.lmt.ei.tum.de/publications/students/Sakic-Bachelorarbeit.pdf
 
 In this thesis, an overview of modern map-matching algorithms, used to reconcile a positional
 observation onto the road using geometric, topological, statistical and advanced techniques in real-
